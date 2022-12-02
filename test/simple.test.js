@@ -1,3 +1,3 @@
-test("Say Hello", () => {
+test("Say Hello ", () => {
   expect("R".length).toBe(1);
 });
